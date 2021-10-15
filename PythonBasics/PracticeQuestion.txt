@@ -1,0 +1,32 @@
+Exercise 1
+
+1 wap to add 2 numbers
+2 wap to add 2 numbers with user inputs
+3 wap to find remainder when a number is divide by 2 or 3
+4 make a input function and check its type
+5 Make two variable a & b ,also find which variable is greater use comaprison operator
+6 Find Avg. of two numbers
+7 Square of two numbers
+8 cube of a num.
+
+
+
+
+
+
+
+
+
+
+
+
+ Ex-2 String
+
+1. Write a program to display user enter name using input function followed by 
+	"Welcome to coding world"
+o/p---> Welcome to coding world Jeevan.
+
+2. Make a letter template "hello NAME , you are selected for this DATE"
+o/p---> hello ram , you are selected for 2 nov;
+
+
