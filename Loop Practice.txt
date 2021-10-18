@@ -1,5 +1,0 @@
-1. Print 10 Natural no.
-2. Print sum of 1 to 10
-3. Print table of 2.
-4. Print 1 to -10.
-5. Print -1 to -10.
