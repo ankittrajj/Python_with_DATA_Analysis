@@ -1,0 +1,8 @@
+List & Tuple
+
+1. Make a list of items entered by users
+2. Display marks of some students & make it in sorted way
+3. Check Tuple is mutable or not?
+4. Sum of no. in a list
+5. Count the no. of 5 in the tuple
+	t=(5,55,555,5555,-5,-55)
